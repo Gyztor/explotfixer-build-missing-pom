@@ -24,10 +24,10 @@
         <id>2lstudios</id>
         <url>https://ci.2lstudios.dev/plugin/repository/everything/</url>
       </repository>
-      <!--<repository>
-        <id>mvn</id>
-        <url>https://mvnrepository.com/artifact/com.github.steveice10/opennbt</url>
-      </repository>-->
+      <repository>
+        <id>codemc-public</id>
+        <url>https://repo.codemc.io/repository/maven-public/</url>
+      </repository>
     </repositories>
   
     <dependencies>
